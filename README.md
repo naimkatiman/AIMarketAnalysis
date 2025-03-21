@@ -85,36 +85,3 @@ All names, logos, and brands of third parties that may be referenced in our site
 
 Our use of these names, logos, and brands is for identification purposes only, and does not imply any such endorsement, sponsorship, or affiliation.
 
-## 4. Contacts
-
-If you have any questions about the platform or anything OpenBB, feel free to email us at `support@openbb.co`
-
-If you want to say hi, or are interested in partnering with us, feel free to reach us at `hello@openbb.co`
-
-Any of our social media platforms: [openbb.co/links](https://openbb.co/links)
-
-## 5. Star History
-
-This is a proxy of our growth and that we are just getting started.
-
-But for more metrics important to us check [openbb.co/open](https://openbb.co/open).
-
-[![Star History Chart](https://api.star-history.com/svg?repos=openbb-finance/OpenBB&type=Date&theme=dark)](https://api.star-history.com/svg?repos=openbb-finance/OpenBB&type=Date&theme=dark)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[forks-shield]: https://img.shields.io/github/forks/OpenBB-finance/OpenBB.svg?style=for-the-badge
-[forks-url]: https://github.com/OpenBB-finance/OpenBB/network/members
-[stars-shield]: https://img.shields.io/github/stars/OpenBB-finance/OpenBB.svg?style=for-the-badge
-[stars-url]: https://github.com/OpenBB-finance/OpenBB/stargazers
-[issues-shield]: https://img.shields.io/github/issues/OpenBB-finance/OpenBB.svg?style=for-the-badge&color=blue
-[issues-url]: https://github.com/OpenBB-finance/OpenBB/issues
-[bugs-open-shield]: https://img.shields.io/github/issues/OpenBB-finance/OpenBB/bug.svg?style=for-the-badge&color=yellow
-[bugs-open-url]: https://github.com/OpenBB-finance/OpenBB/issues?q=is%3Aissue+label%3Abug+is%3Aopen
-[bugs-closed-shield]: https://img.shields.io/github/issues-closed/OpenBB-finance/OpenBB/bug.svg?style=for-the-badge&color=success
-[bugs-closed-url]: https://github.com/OpenBB-finance/OpenBB/issues?q=is%3Aissue+label%3Abug+is%3Aclosed
-[license-shield]: https://img.shields.io/github/license/OpenBB-finance/OpenBB.svg?style=for-the-badge
-[license-url]: https://github.com/OpenBB-finance/OpenBB/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/DidierRLopes
