@@ -40,12 +40,10 @@ We also have an open source AI financial analyst agent that can access all of th
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li><a href="#1-installation">Installation</a></li>
-    <li><a href="#2-contributing">Contributing</a></li>
-    <li><a href="#3-license">License</a></li>
-    <li><a href="#4-disclaimer">Disclaimer</a></li>
-    <li><a href="#5-contacts">Contacts</a></li>
-    <li><a href="#6-star-history">Star History</a></li>
-    <li><a href="#7-contributors">Contributors</a></li>
+    <li><a href="#2-license">License</a></li>
+    <li><a href="#3-disclaimer">Disclaimer</a></li>
+    <li><a href="#4-contacts">Contacts</a></li>
+    <li><a href="#5-star-history">Star History</a></li>
   </ol>
 </details>
 
@@ -67,32 +65,12 @@ or by cloning the repository directly with  `git clone https://github.com/OpenBB
 
 Please find more about the installation process in the [OpenBB Documentation](https://docs.openbb.co/cli/installation).
 
-## 2. Contributing
-
-There are three main ways of contributing to this project. (Hopefully you have starred the project by now ⭐️)
-
-### Become a Contributor
-
-* More information on our [Contributing Documentation](https://docs.openbb.co/platform/developer_guide/contributing).
-
-### Create a GitHub ticket
-
-Before creating a ticket make sure the one you are creating doesn't exist already [here](https://github.com/OpenBB-finance/OpenBB/issues)
-
-* [Report bug](https://github.com/OpenBB-finance/OpenBB/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBug%5D)
-* [Suggest improvement](https://github.com/OpenBB-finance/OpenBB/issues/new?assignees=&labels=enhancement&template=enhancement.md&title=%5BIMPROVE%5D)
-* [Request a feature](https://github.com/OpenBB-finance/OpenBB/issues/new?assignees=&labels=new+feature&template=feature_request.md&title=%5BFR%5D)
-
-### Provide feedback
-
-We are most active on [our Discord](https://openbb.co/discord), but feel free to reach out to us in any of [our social media](https://openbb.co/links) for feedback.
-
-## 3. License
+## 2. License
 
 Distributed under the AGPLv3 License. See
 [LICENSE](https://github.com/OpenBB-finance/OpenBB/blob/main/LICENSE) for more information.
 
-## 4. Disclaimer
+## 3. Disclaimer
 
 Trading in financial instruments involves high risks including the risk of losing some, or all, of your investment
 amount, and may not be suitable for all investors.
@@ -107,7 +85,7 @@ All names, logos, and brands of third parties that may be referenced in our site
 
 Our use of these names, logos, and brands is for identification purposes only, and does not imply any such endorsement, sponsorship, or affiliation.
 
-## 5. Contacts
+## 4. Contacts
 
 If you have any questions about the platform or anything OpenBB, feel free to email us at `support@openbb.co`
 
@@ -115,7 +93,7 @@ If you want to say hi, or are interested in partnering with us, feel free to rea
 
 Any of our social media platforms: [openbb.co/links](https://openbb.co/links)
 
-## 6. Star History
+## 5. Star History
 
 This is a proxy of our growth and that we are just getting started.
 
@@ -123,19 +101,9 @@ But for more metrics important to us check [openbb.co/open](https://openbb.co/op
 
 [![Star History Chart](https://api.star-history.com/svg?repos=openbb-finance/OpenBB&type=Date&theme=dark)](https://api.star-history.com/svg?repos=openbb-finance/OpenBB&type=Date&theme=dark)
 
-## 7. Contributors
-
-OpenBB wouldn't be OpenBB without you. If we are going to disrupt financial industry, every contribution counts. Thank you for being part of this journey.
-
-<a href="https://github.com/OpenBB-finance/OpenBB/graphs/contributors">
-   <img src="https://contributors-img.web.app/image?repo=OpenBB-finance/OpenBB" width="800"/>
-</a>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/OpenBB-finance/OpenBB.svg?style=for-the-badge
-[contributors-url]: https://github.com/OpenBB-finance/OpenBB/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/OpenBB-finance/OpenBB.svg?style=for-the-badge
 [forks-url]: https://github.com/OpenBB-finance/OpenBB/network/members
 [stars-shield]: https://img.shields.io/github/stars/OpenBB-finance/OpenBB.svg?style=for-the-badge

@@ -10,4 +10,3 @@ To install the extension:
 pip install openbb-tiingo
 ```
 
-Documentation available [here](https://docs.openbb.co/platform/developer_guide/contributing).

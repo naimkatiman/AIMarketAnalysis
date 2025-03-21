@@ -10,8 +10,6 @@ To install the extension:
 pip install openbb-tmx
 ```
 
-Documentation available [here](https://docs.openbb.co/platform/developer_guide/contributing).
-
 ## Additional information
 
 `openbb-tmx` is an unofficial, community, data provider extension for the OpenBB Platform.

@@ -26,4 +26,3 @@ openbb_platform
 
 The models define the data structures that are used to query the provider endpoints and store the response data.
 
-See [CONTRIBUTING file](../CONTRIBUTING.md) for more details

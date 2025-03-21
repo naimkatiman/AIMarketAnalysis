@@ -10,4 +10,3 @@ To install the extension:
 pip install openbb-alpha-vantage
 ```
 
-Documentation available [here](https://docs.openbb.co/platform/developer_guide/contributing).

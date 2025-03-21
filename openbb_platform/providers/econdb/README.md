@@ -10,4 +10,3 @@ To install the extension:
 pip install openbb-econdb
 ```
 
-Documentation available [here](https://docs.openbb.co/platform/developer_guide/contributing).

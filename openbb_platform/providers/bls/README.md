@@ -16,4 +16,3 @@ To install the extension locally, run the following command in this folder:
 poetry install
 ```
 
-Documentation available [here](https://docs.openbb.co/platform/developer_guide/contributing).

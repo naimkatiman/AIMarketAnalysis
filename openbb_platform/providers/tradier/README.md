@@ -10,8 +10,6 @@ To install the extension:
 pip install openbb-tradier
 ```
 
-Documentation available [here](https://docs.openbb.co/platform/developer_guide/contributing).
-
 ## Authorization
 
 This extension requires two authorization fields:
