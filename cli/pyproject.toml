@@ -1,23 +1,23 @@
 [tool.poetry]
-name = "openbb-cli"
+name = "aimarketanalysis-cli"
 version = "1.1.7"
 description = "Investment Research for Everyone, Anywhere."
-authors = ["OpenBB <hello@openbb.co>"]
-packages = [{ include = "openbb_cli" }]
+authors = ["AIMarketAnalysis <hello@aimarketanalysis.co>"]
+packages = [{ include = "aimarketanalysis_cli" }]
 license = "AGPL-3.0-only"
 readme = "README.md"
-homepage = "https://openbb.co"
-repository = "https://github.com/OpenBB-finance/OpenBB"
-documentation = "https://docs.openbb.co/cli"
+homepage = "https://aimarketanalysis.co"
+repository = "https://github.com/naimkatiman/AIMarketAnalysis"
+documentation = "https://docs.aimarketanalysis.co/cli"
 
 [tool.poetry.scripts]
-openbb = 'openbb_cli.cli:main'
+aimarketanalysis = 'aimarketanalysis_cli.cli:main'
 
 [tool.poetry.dependencies]
 python = "^3.9,<3.13"
 
-# OpenBB dependencies
-openbb = { version = "^4.4.1", extras = ["all"] }
+# AIMarketAnalysis dependencies
+aimarketanalysis = { version = "^4.4.1", extras = ["all"] }
 
 # CLI dependencies
 prompt-toolkit = "^3.0.50"
